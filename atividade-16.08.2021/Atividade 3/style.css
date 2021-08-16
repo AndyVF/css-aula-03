@@ -1,0 +1,22 @@
+body {
+    margin-left: 0%;
+    padding: 0;
+    background-image: url(https://cdn.metring.com.br/categories/5/thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-position: right, bottom;
+    background-attachment: fixed;
+    background-color: lightblue;
+    background-position-x: 90%;
+    
+}
+
+#title {
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    color: teal;
+}

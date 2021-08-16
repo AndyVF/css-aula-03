@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: green;
+}
+
+#title {
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.teste1 {
+    text-transform: capitalize;
+    margin: 2%;
+}
+
+.teste2 {
+    text-transform: capitalize;
+    margin: 2%;
+}
